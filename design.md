@@ -47,7 +47,7 @@ Quote:
 2. Import sdk
 
 ```
-import TheLordOfRings from 'the-lord-of-the-rings-sdk';
+import TheLordOfRings from 'dmitry_guzov-sdk';
 ```
 
 3. import sdk in your code.

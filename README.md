@@ -13,7 +13,7 @@
 3. import sdk in your code.
 
 ```
-import TheLordOfRings from 'the-lord-of-the-rings-sdk';
+import TheLordOfRings from 'dmitry_guzov-sdk';
 ```
 
 4. create client in code.
