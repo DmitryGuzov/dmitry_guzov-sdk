@@ -4,8 +4,8 @@ import { Movie } from './movie';
 import { Character } from './character';
 import { Quote } from './quote';
 import { Chapter } from './chapter';
-declare class TheLordOfRings extends Base {
+declare class DmitryGuzovSDK extends Base {
 }
-interface TheLordOfRings extends Book, Movie, Character, Quote, Chapter {
+interface DmitryGuzovSDK extends Book, Movie, Character, Quote, Chapter {
 }
-export default TheLordOfRings;
+export default DmitryGuzovSDK;

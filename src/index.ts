@@ -6,10 +6,10 @@ import { Character } from './character';
 import { Quote } from './quote';
 import { Chapter } from './chapter';
 
-class TheLordOfRings extends Base {}
+class DmitryGuzovSDK extends Base {}
 
-interface TheLordOfRings extends Book, Movie, Character, Quote, Chapter {}
+interface DmitryGuzovSDK extends Book, Movie, Character, Quote, Chapter {}
 
-applyMixins(TheLordOfRings, [Book, Movie, Character, Quote, Chapter]);
+applyMixins(DmitryGuzovSDK, [Book, Movie, Character, Quote, Chapter]);
 
-export default TheLordOfRings;
+export default DmitryGuzovSDK;
